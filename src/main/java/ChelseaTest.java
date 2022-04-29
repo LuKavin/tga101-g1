@@ -2,7 +2,7 @@
 public class ChelseaTest {
 
 	public static void main(String[] args) {
-		System.out.println("Chelsea棒棒!");
+		System.out.println("hahahahahaha~~~~~~");
 
 	}
 
