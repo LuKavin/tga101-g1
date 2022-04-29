@@ -6,6 +6,6 @@ public class Math{
 			}
 			System.out.println();
 		}
-		System.out.println("祖豪棒棒！！！");
+		System.out.println("祖豪棒棒der！！！");
 	}
 }
